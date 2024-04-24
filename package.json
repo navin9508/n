@@ -1,0 +1,11 @@
+{
+  "name": "rk",
+  "version": "1.0.0",
+  "description": "\"# RK-AUTOMATION\" \r \"# RK-AUTOMATION\" \r \"# n\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rk automation",
+  "license": "ISC"
+}
